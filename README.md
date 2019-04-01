@@ -1,0 +1,1 @@
+The goal of this project is to improve my skills in plain PHP, not only that but also learn how *"modern applications"* is built with Composer and  3rd party packages.
